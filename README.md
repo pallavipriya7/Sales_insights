@@ -15,3 +15,5 @@ Connected the SQL data set to PowerBI.
 Performed ETL and data cleaning on the imported data.
 
 In the currency there were two types of currencies USD and INR. Performed currency conversion to make all the currency type same by creating a conditional column in power Query and measures.
+![image](https://github.com/pallavipriya7/Sales_insights/assets/136942897/acc8e289-fc99-48a7-9752-0499c7d3f8bf)
+
